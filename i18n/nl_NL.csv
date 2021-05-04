@@ -3,7 +3,7 @@ Housenumber,Huisnummer
 "Housenr.","Huisnr."
 Addition,Toevoeging
 "Enter address manually","Handmatig adres invullen"
-"Unknown postcode + housenumber combination.","Onbekende postcode + huisnummer combinatie."
+"Unknown postcode + housenumber combination.","Uw postcode / huisnummer combinatie is niet gevonden. Mocht u er zeker van zijn dat uw gegevens correct zijn klik dan op 'Handmatig adres invullen'."
 "Invalid postcode format, use `1234AB` format.","Onbekend postcode formaat, gebruik het `1234AB` formaat."
 "Housenumber format is not valid.","Onbekend huisnummer formaat."
 "Incorrect address.","Onbekend adres."
